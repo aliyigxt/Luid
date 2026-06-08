@@ -1,1 +1,389 @@
+Privacy Policy for Luid
 
+Last updated: June 8, 2026
+
+This Privacy Policy explains how Luid (“the App”, “we”, “our”, or “us”) handles information. Luid is a water and drink tracking app designed to help users log fluid intake, review hydration-related habits, set reminders, view local insights, and optionally save water entries to Apple Health.
+
+Luid is designed with privacy in mind. Most app information is stored locally on your device. Luid does not sell your data. Luid does not use third-party advertising SDKs, third-party analytics SDKs, third-party crash analytics SDKs, data brokers, cross-app tracking, or a custom server-based account system.
+
+Some features rely on Apple system services, such as Apple Health, StoreKit/App Store purchases, local notifications, selected photo access, Apple Watch connectivity, Apple diagnostics, and device or iCloud backup settings controlled by Apple. Apple may process information according to Apple’s own privacy practices, system settings, and user choices.
+
+1. Contact
+
+For privacy questions or data requests, you may contact:
+
+Ali Yiğit
+Email: [aliyigxt@icloud.com]
+
+2. Data the App may process
+
+Luid may process the following data depending on the features you use.
+
+2.1 Profile and onboarding data
+
+The App may store:
+
+* First name
+* Last name
+* Age
+* Weight
+* Sex/gender selection
+* Activity level
+* Preferred measurement unit
+* Optional profile image
+* Onboarding completion status
+* App settings
+
+This information is used to personalize your local tracking experience, calculate a conservative wellness tracking estimate, display your profile, and configure the App.
+
+Age, weight, sex/gender, activity level, and related profile inputs are used only for wellness tracking personalization inside the App. They are not used for medical diagnosis, treatment, prevention, cure, dosage guidance, or emergency decisions.
+
+2.2 Drink and hydration data
+
+The App may store:
+
+* Drink entries
+* Drink amount
+* Drink type, such as water, coffee, tea, or supported drinks
+* Custom drink name, color, and related custom drink settings
+* Date and time of entries
+* Entry creation date
+* Whether an entry counts toward your daily total
+* Daily goal
+* Quick-add amounts
+* Default drink type
+* Daily context settings
+* Weekly and historical summaries generated from your entries
+
+This data is used to provide water and drink tracking, progress views, history, charts, summaries, local insights, and related App features.
+
+2.3 Reminder data
+
+If you use reminders, the App may store:
+
+* Hydration reminder settings
+* Reminder schedule mode
+* Fixed reminder times
+* Interval reminder settings
+* Repeat weekdays
+* Quiet hours
+* Goal-complete pause setting
+* Smart or adaptive reminder settings
+* Custom reminder titles
+* Custom reminder notes
+* Custom reminder times
+* Reminder enabled/disabled status
+
+Luid uses iOS local notifications for reminders. The App does not use push notification servers and does not upload notification tokens to any server.
+
+Local notification delivery depends on iOS, device settings, Focus modes, notification permissions, battery state, system scheduling, and other conditions controlled by the device or Apple. The developer cannot guarantee that every notification will be delivered, delivered at an exact time, displayed, heard, or acted on.
+
+2.4 Selected photo data
+
+The App may allow you to choose a profile photo using Apple’s selected photo picker.
+
+The App processes only the image you select for the profile photo feature. Luid does not use the camera for profile photos and does not scan your full photo library. Your selected profile image may be stored locally as part of your App profile.
+
+If you later export, share, back up, or otherwise move the image outside Luid through system features or device backups, that activity is controlled by your device settings, Apple services, or the destination you choose.
+
+2.5 Apple Health data
+
+Luid may offer optional Apple Health support.
+
+When Apple Health support is enabled and permission is granted, Luid may save new drink entries to Apple Health as dietary water. Luid requests permission to write water data to Apple Health. The App does not need to read your Apple Health data for this feature.
+
+Apple Health permission is controlled by you through iOS and the Health app. You may grant, deny, or revoke Apple Health permissions using Apple’s system settings.
+
+Turning off Apple Health support in Luid stops new Health writes from Luid where technically available. Deleting or editing Luid entries may attempt to delete or update matching Apple Health water samples created by Luid, where permission and Apple Health availability allow it.
+
+The developer cannot guarantee that Apple Health data will always be saved, updated, deleted, synchronized, displayed, or restored correctly. Apple Health behavior may depend on iOS, Health app settings, device availability, user permissions, iCloud Health settings, Apple ID status, and Apple system behavior.
+
+You remain responsible for reviewing and managing Apple Health data inside the Apple Health app. Luid should not be used as the sole source of truth for health, medical, safety, or emergency information.
+
+2.6 Apple Watch connectivity data
+
+If Luid is used with Apple Watch support, the App may exchange limited hydration-related data between your paired iPhone and Apple Watch using Apple WatchConnectivity.
+
+This may include:
+
+* Today’s hydration total
+* Daily goal
+* Measurement unit
+* Quick-add amounts
+* Drink catalog items
+* Custom drink identifiers or display information
+* Today’s progress segments
+* Drink entries added from the Apple Watch
+
+This data is used only to keep the Luid experience consistent between your paired devices. Watch connectivity depends on Apple hardware, watchOS, iOS, pairing state, Bluetooth/Wi-Fi availability, device reachability, Apple system behavior, and user settings.
+
+The developer cannot guarantee uninterrupted sync, instant delivery, complete delivery, or perfect state matching between devices.
+
+2.7 Subscription data
+
+Luid uses Apple StoreKit and the App Store for subscriptions and purchases.
+
+Purchases, renewals, cancellations, refunds, billing, taxes, pricing, payment methods, currency conversion, offer eligibility, trial eligibility, family sharing availability, chargebacks, and financial transaction handling are managed by Apple App Store and StoreKit.
+
+We do not receive, process, or store your payment card information.
+
+The App may check Apple StoreKit transaction and entitlement information to determine whether Luid Pro features should be unlocked. The App may keep a local or in-memory subscription entitlement state as needed to provide Pro access.
+
+The developer does not control Apple’s billing systems, refund decisions, App Store account systems, tax handling, regional pricing, subscription renewal, subscription cancellation, payment authorization, or StoreKit availability.
+
+2.8 Luid Pro and local insight data
+
+Some advanced features may require Luid Pro.
+
+Luid Pro insights, charts, trend analysis, reminder intelligence, drink balance insights, calendar heatmaps, personal records, recap views, custom drink features, and other advanced features are generated from your local App data where available.
+
+Luid does not send your drink history, profile details, reminders, or local insight data to an external analysis server.
+
+Local insights depend on the completeness and accuracy of the information you enter. If entries are missing, incorrect, duplicated, delayed, edited, deleted, or recorded under the wrong drink type, the resulting charts and insights may be incomplete or inaccurate.
+
+3. Data we do not collect or use
+
+At this time, Luid does not use:
+
+* Third-party advertising SDKs
+* Third-party analytics SDKs
+* Third-party crash analytics SDKs
+* Cross-app tracking
+* Data brokers
+* Sale of personal data
+* A custom backend account system
+* Push notification servers
+* External servers for hydration analysis
+* Social sharing accounts
+* Leaderboards
+* Public user profiles
+* Location tracking
+* Camera capture
+* Microphone access
+
+Luid does not create a server-based user account. The profile inside the App is a local app profile.
+
+Apple may separately process App Store, StoreKit, HealthKit, Apple Health, Apple Watch, iCloud, device backup, diagnostics, and purchase-related information according to Apple’s own privacy practices and user settings.
+
+4. How we use data
+
+We use data only to:
+
+* Provide App features
+* Save your App state
+* Personalize your local profile
+* Calculate and display your selected daily goal
+* Show hydration and drink progress
+* Show drink history
+* Generate local charts and summaries
+* Generate local Luid Pro insights where available
+* Manage custom drinks
+* Schedule local reminders
+* Save water entries to Apple Health when enabled and permitted
+* Sync limited App state with a paired Apple Watch where available
+* Verify subscription access through Apple StoreKit
+* Restore local App behavior where supported by device or Apple systems
+
+We do not use your data for advertising or cross-app tracking.
+
+5. Legal bases for processing
+
+If you are in the European Union, European Economic Area, United Kingdom, or another region with similar privacy laws, we rely on the following legal bases where applicable.
+
+5.1 Contract
+
+We process data necessary to provide the App features you choose to use, such as local profile functionality, hydration tracking, drink history, reminders, Apple Health writing, Apple Watch support, settings, subscription access, and Luid Pro features.
+
+5.2 Consent
+
+We rely on your consent or system permission for optional features such as:
+
+* Apple Health access
+* Selected photo access
+* Local notifications
+* Apple Watch connectivity where applicable
+* Subscription purchase actions through Apple
+
+You can withdraw or change permissions through iOS Settings, the Apple Health app, Apple Watch settings, App Store settings, or inside the App where controls are available.
+
+5.3 Legitimate interests
+
+We may process minimal local App data needed to maintain functionality, preserve App state, prevent accidental data loss, restore safe defaults, handle local backups of App JSON files, maintain reliability, and protect the integrity of App features.
+
+5.4 Legal obligations
+
+Apple may retain transaction-related information for tax, accounting, fraud prevention, legal, regulatory, and financial reporting obligations. These processes are managed by Apple.
+
+6. Where data is stored
+
+Data may be stored:
+
+* Locally on your device
+* In local App files inside the App’s storage area
+* In local backup or recovery files created by the App to reduce data loss after local file corruption
+* In Apple Health, if Apple Health support is enabled and permission is granted
+* In Apple StoreKit/App Store systems for subscription and purchase handling
+* Between your paired iPhone and Apple Watch through Apple WatchConnectivity, where supported
+* In Apple diagnostics systems if you have enabled sharing diagnostics with developers in your Apple device settings
+* In device or iCloud backups depending on your Apple ID, iOS, iCloud, device backup settings, and Apple system behavior
+
+Luid does not operate a custom backend server for user accounts.
+
+7. Data sharing
+
+We do not sell your data.
+
+Luid may interact with Apple services only when needed for App functionality:
+
+* Apple StoreKit/App Store for subscriptions and purchases
+* Apple Health/HealthKit for optional water entry saving
+* iOS local notifications for reminders
+* Apple selected photo picker for profile photo selection
+* Apple WatchConnectivity for paired Apple Watch support
+* Apple diagnostics if enabled by your device settings
+* Device or iCloud backup systems controlled by Apple
+
+The App does not share your data with third-party advertising or analytics providers.
+
+8. Payment, billing, subscriptions, and Apple services
+
+Payment processing, billing, subscription renewal, cancellation, taxes, pricing, refund decisions, chargebacks, regional pricing, currency conversion, offer eligibility, trial eligibility, family sharing availability, App Store account status, and financial transaction handling are managed by Apple App Store and StoreKit.
+
+The developer does not process payment card details, does not store payment card details, does not control Apple’s billing systems, does not control Apple refund decisions, does not control App Store tax handling, does not control Apple subscription cancellation or renewal systems, and does not control Apple payment authorization.
+
+To the maximum extent permitted by applicable law, the developer is not responsible for Apple-managed payment, billing, renewal, cancellation, refund, tax, pricing, eligibility, currency conversion, App Store account, StoreKit, Family Sharing, or financial transaction processes.
+
+9. Data retention
+
+Local App data remains on your device until you delete it, reset it inside the App, or uninstall the App, subject to iOS and Apple backup behavior.
+
+Local backup or recovery files may remain on your device until deleted by the App’s reset/delete flow, replaced by newer data, or removed by the operating system.
+
+Apple Health data written by Luid may remain in Apple Health until deleted by Luid where technically possible or manually managed by you in the Apple Health app.
+
+Apple StoreKit and App Store purchase records may remain in Apple systems according to Apple’s legal, financial, tax, fraud prevention, and account requirements.
+
+If you export App data as a file, the exported file may remain wherever you save or share it. Luid cannot control exported files after they leave the App.
+
+If your device is backed up through Apple systems, some App-related data may remain in backups depending on your iOS, iCloud, Apple ID, backup settings, storage availability, and Apple system behavior.
+
+10. Delete account, reset, and data deletion
+
+Luid may include local reset or delete flows.
+
+These may delete or reset:
+
+* Local drink entries
+* Local hydration history
+* Local reminders
+* Scheduled Luid local notifications
+* Local profile data
+* Local profile image
+* Local settings
+* Local custom drinks
+* Local onboarding state
+* Local Luid Pro entitlement cache or local state where applicable
+* Local App backup/recovery files where technically available
+
+Because Luid does not use a custom backend account system, “Delete Account”, “Reset All Local Data”, or similar wording refers to deleting or resetting the local app profile and related App data on the device where the action is performed.
+
+When local drink entries are deleted, Luid may attempt to delete matching Apple Health water samples created by Luid, where Apple Health is available and permission allows. This may not remove Apple Health data if permission is denied, HealthKit is unavailable, the data cannot be matched, Apple Health fails the deletion request, the sample was changed outside Luid, the device is offline where relevant, or Apple systems do not complete the operation.
+
+You can also manage Apple Health water data directly in the Apple Health app.
+
+Deleting local App data may not delete:
+
+* Apple App Store purchase history
+* Apple subscription records
+* Apple invoices, billing, tax, or refund records
+* Apple diagnostics
+* Apple Health data not removable by Luid
+* Device or iCloud backups controlled by Apple
+* Files you exported or shared outside the App
+* Data stored outside Luid by your own actions or device settings
+
+11. Apple diagnostics
+
+Luid does not use third-party crash logging or third-party diagnostics SDKs.
+
+Apple may provide developers with crash logs, performance information, diagnostic information, or similar reports if you have enabled sharing diagnostics with app developers in your Apple device settings. This is controlled by Apple and your device settings.
+
+Diagnostic reports may include technical information such as device model, operating system version, App version, crash state, performance state, or related technical details. These reports are used only to understand and improve App reliability.
+
+12. User responsibility for entries, accuracy, storage, and backups
+
+Luid depends on the information you enter. You are responsible for the accuracy, completeness, timing, and appropriateness of your drink entries, profile details, reminder settings, and App settings.
+
+Luid should not be used as the sole storage location for important, sensitive, legal, financial, medical, academic, business-critical, emergency, or mission-critical information.
+
+You are responsible for keeping separate backups of any information you consider important.
+
+Insufficient device storage, iCloud storage limits, device damage, App deletion, iOS updates, Apple ID issues, permission changes, Health app settings, notification settings, Apple Watch pairing changes, or operating system behavior may affect saving, backup, restore, deletion, synchronization, notification delivery, Apple Health writing, and App availability.
+
+To the maximum extent permitted by applicable law, the developer is not responsible for data loss, failed backups, failed restores, failed exports, failed deletes, Apple Health synchronization issues, Apple Watch synchronization issues, notification delivery failures, StoreKit issues, device storage limitations, iCloud limitations, Apple service availability, user error, device damage, operating system behavior, or permission settings controlled by the user or Apple.
+
+13. Health and wellness privacy note
+
+Luid is a wellness tracking app. It is not medical software and does not provide medical advice.
+
+The App does not diagnose, treat, prevent, or cure any disease or condition. It does not provide emergency guidance, clinical decisions, professional nutrition advice, medical dosage advice, or personalized medical treatment plans.
+
+Hydration needs vary from person to person. Excessive fluid intake can be risky. If you have a medical condition, are pregnant, have kidney, heart, endocrine, electrolyte, or fluid-balance concerns, take medication, follow fluid restrictions, or have any health-related questions, consult a qualified healthcare professional.
+
+The developer is not responsible for health decisions made based on App entries, reminders, charts, summaries, estimates, goals, insights, Apple Health entries, or notifications.
+
+14. Your privacy rights
+
+Depending on your location, you may have rights such as:
+
+* Accessing your personal data
+* Correcting inaccurate data
+* Deleting your data
+* Restricting processing
+* Objecting to processing
+* Requesting data portability
+* Withdrawing consent
+* Lodging a complaint with a data protection authority
+
+Because most Luid data is stored locally on your device or inside Apple-controlled services, you can manage much of it directly on your device, inside the App, in the Apple Health app, in iOS Settings, in Apple Watch settings, through Apple ID/iCloud settings, or through App Store subscription settings.
+
+For privacy requests, contact:
+
+[aliyigxt@icloud.com](mailto:aliyigxt@icloud.com)
+
+We may need enough information to verify and understand your request. We may be unable to access or delete data that is stored only locally on your device, stored in your Apple Health account, stored in Apple-controlled systems, stored in your backups, or stored in files you exported outside the App.
+
+15. Children’s privacy
+
+Luid is intended for a general audience and is not specifically directed to children.
+
+We do not knowingly collect personal data from children through a custom backend server. If you believe a child has provided personal data through the App and you need assistance, contact us.
+
+If a parent or guardian allows a minor to use Luid, the parent or guardian is responsible for supervising that use, reviewing the App’s wellness nature, managing device permissions, and deciding whether the App is appropriate for the minor.
+
+16. Security
+
+Luid uses Apple system frameworks and local device storage mechanisms where possible.
+
+No electronic storage, local file, device backup, operating system, Apple service, or transmission method is completely secure. Luid is designed to minimize unnecessary data sharing, avoid third-party advertising and analytics SDKs, and avoid a custom backend account system.
+
+You are responsible for protecting your device, passcode, Apple ID, iCloud account, Apple Health settings, backups, exported files, and App Store account.
+
+17. International processing
+
+Luid does not operate a custom backend server for user accounts or hydration analysis.
+
+Apple services, including App Store, StoreKit, Apple Health, iCloud, Apple Watch, diagnostics, and device backup systems, may process information in accordance with Apple’s own privacy practices, infrastructure, and regional requirements.
+
+18. Changes to this Privacy Policy
+
+We may update this Privacy Policy when the App changes, new features are added, Apple platform behavior changes, or legal requirements change.
+
+The updated policy will show a new “Last updated” date. Continued use of the App after the updated policy becomes available means you should review the updated policy.
+
+19. Contact
+
+For privacy questions or data requests:
+
+Ali Yiğit
+Email: [aliyigxt@icloud.com]
