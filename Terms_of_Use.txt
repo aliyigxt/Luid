@@ -1,1 +1,441 @@
+LUID TERMS OF USE AND END USER LICENSE AGREEMENT (EULA)
 
+Effective Date: June 8, 2026
+App: Luid
+Developer / Application Provider: Ali Yiğit
+Contact: [aliyigxt@icloud.com]
+
+Please read these Terms of Use and End User License Agreement (“Terms”) carefully before downloading, installing, accessing, purchasing, subscribing to, or using Luid (the “App”). These Terms form a legal agreement between you and Ali Yiğit, the developer and application provider of Luid (the “Developer”, “we”, “our”, or “us”).
+
+By downloading, installing, accessing, purchasing, subscribing to, or using Luid, you agree to these Terms. If you do not agree to these Terms, do not use the App.
+
+These Terms apply together with Apple’s App Store terms, Apple Media Services Terms and Conditions, Apple’s applicable Licensed Application End User License Agreement, App Store purchase rules, StoreKit rules, HealthKit rules, and any mandatory consumer rights or data protection rights that apply in your country or region. If any part of these Terms cannot legally apply to you, that part will apply only to the maximum extent permitted by applicable law, and the remaining parts will continue to apply.
+
+Nothing in these Terms limits rights that cannot legally be limited, including mandatory consumer rights, mandatory refund rights handled by Apple where applicable, or mandatory data protection rights.
+
+1. LICENSED, NOT SOLD
+
+Luid is licensed to you, not sold. Subject to your compliance with these Terms and Apple’s applicable terms, the Developer grants you a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to install and use the App on Apple-branded devices that you own or control, only as permitted by Apple’s usage rules and these Terms.
+
+You do not acquire ownership of the App, its source code, object code, design, user interface, visual style, architecture, workflows, feature names, product names, icons, graphics, text, databases, calculation logic, local insight systems, subscription structure, or any other intellectual property belonging to the Developer or licensed to the Developer.
+
+All rights not expressly granted to you are reserved by the Developer.
+
+2. GENERAL WELLNESS APP; NOT CHILDREN-SPECIFIC
+
+Luid is a general-user water and drink tracking app for everyday wellness tracking, habit awareness, reminders, local hydration-related summaries, local charts, Apple Health writing where enabled, and optional paid features.
+
+Luid is not specifically directed to children. If you are not legally old enough to accept these Terms in your country or region, you may use the App only with permission and supervision from a parent or legal guardian.
+
+A parent or legal guardian who allows a minor to use Luid is responsible for the minor’s use of the App, profile information, device permissions, Apple Health settings, notifications, Apple Watch settings, purchases, subscriptions, Apple Family Sharing settings, Apple ID settings, device backups, and any information entered or stored on the device.
+
+3. PRIVACY POLICY
+
+Your use of Luid is also governed by the Luid Privacy Policy. The Privacy Policy explains how the App handles information, what data may be stored locally, how optional Apple Health support works, how reminders work, how Apple-controlled services may process information, and what privacy rights may apply.
+
+Privacy Policy URL: https://aliyigxt.github.io/Luid/Privacy_Policy.txt
+
+If the Privacy Policy and these Terms address the same issue differently, the Privacy Policy controls only for privacy and data protection matters. These Terms control for license, purchases, subscriptions, warranties, liability, acceptable use, intellectual property, app availability, app changes, user responsibilities, Apple services, and dispute-related matters.
+
+4. LOCAL APP STRUCTURE
+
+Luid is designed to work primarily on your device. The App does not provide a Developer-operated server account, Developer-hosted cloud profile, social account, public profile, leaderboard, messaging system, advertising system, analytics system, or external hydration analysis server.
+
+Depending on the features you use, Luid may store local data on your device, including:
+
+* first name;
+* last name;
+* age;
+* weight;
+* sex/gender selection;
+* activity level;
+* profile image;
+* drink entries;
+* drink amounts;
+* drink types;
+* custom drink names and settings;
+* daily goal;
+* quick-add amounts;
+* default drink settings;
+* selected measurement unit;
+* app theme;
+* day reset time;
+* week start day;
+* local reminder settings;
+* custom reminder titles and notes;
+* local notification identifiers;
+* Apple Health sync preference;
+* Apple Watch sync state where available;
+* local charts and summaries;
+* local Luid Pro insight state;
+* onboarding status;
+* local settings;
+* local subscription entitlement state where applicable.
+
+You are responsible for protecting your device, Apple ID, device passcode, biometric access, backups, screenshots, notification previews, shared information, Apple Health settings, Apple Watch settings, exported files if export features are available, and any information you choose to enter into the App.
+
+5. IMPORTANT DATA STORAGE AND USER RESPONSIBILITY
+
+Luid is not intended to be the only place where you keep important information. You should not rely on the App as the sole storage location for important, sensitive, legal, financial, medical, academic, business-critical, emergency, mission-critical, or irreplaceable information.
+
+You are responsible for keeping independent backups of any information that is important to you.
+
+Luid is not designed for storing highly sensitive, regulated, confidential, emergency, legal, medical, financial, or mission-critical information. You are responsible for deciding what information you enter, save, edit, delete, export, share, or store in the App.
+
+To the maximum extent permitted by applicable law, the Developer is not responsible for loss, deletion, corruption, exposure, disclosure, unavailability, inaccurate display, failed save, failed restore, failed deletion, or misuse of information that you choose to store only in the App or that you choose to store in the App despite the limitations described in these Terms.
+
+6. APPLE SERVICES AND APPLE-CONTROLLED SYSTEMS
+
+Luid may rely on Apple-controlled systems such as the App Store, StoreKit, Apple ID, Apple subscriptions, Apple billing, Apple refund processes, Apple Health, HealthKit, Apple WatchConnectivity, device backup, iCloud backup where enabled by your device settings, Apple notification systems, selected photo picker, Apple operating system permissions, Apple diagnostics, and other Apple platform services.
+
+The Developer does not control Apple servers, Apple accounts, Apple billing, Apple subscription records, Apple refund decisions, Apple Health, HealthKit authorization behavior, Apple Watch pairing behavior, iCloud Backup, Apple ID security, device-level backups, operating system behavior, App Store availability, Apple diagnostics, App Store reporting, StoreKit reporting, Apple privacy settings, Apple data security practices, notification delivery behavior, or any other Apple-managed process.
+
+To the maximum extent permitted by applicable law, the Developer is not responsible or liable for any loss, leak, unauthorized access, disclosure, deletion delay, backup issue, billing issue, subscription issue, refund issue, Apple Health issue, Apple Watch issue, account issue, service interruption, data processing, data breach, security incident, diagnostics issue, reporting issue, or platform issue caused by, occurring through, or relating to Apple-controlled systems, Apple services, Apple ID, iCloud, App Store, StoreKit, Apple Health, HealthKit, WatchConnectivity, device backups, operating system behavior, Apple diagnostics, App Store reporting, StoreKit reporting, or any other Apple-managed process.
+
+7. USER RESPONSIBILITY FOR DEVICE SECURITY, APPLE ACCOUNT, AND SETTINGS
+
+You are responsible for how you use the App and for keeping your device, Apple ID, passcode, biometric access, iCloud settings, backup settings, app permissions, Apple Health settings, Apple Watch settings, notification settings, App Store account, screenshots, copied text, shared information, local files, and local App data secure.
+
+You are responsible for managing your Apple ID, App Store account, Family Sharing settings, region settings, payment method, subscription status, refund requests, billing information, iCloud settings, iCloud storage, device storage, backup settings, Apple Health permissions, notification permissions, operating system settings, device compatibility, Apple Watch pairing, and any Apple-provided account or device controls.
+
+Problems caused by Apple ID restrictions, App Store account issues, Family Sharing behavior, region changes, payment method issues, subscription management errors, insufficient device storage, insufficient iCloud storage, device restrictions, outdated operating system versions, unsupported devices, incorrect permissions, incorrect notification settings, incorrect Apple Health settings, incorrect backup settings, or incorrect user settings are outside the Developer’s control.
+
+To the maximum extent permitted by applicable law, the Developer is not responsible or liable for data loss, data leak, unauthorized access, privacy issue, disclosure, corruption, deletion, security problem, financial loss, unavailable feature, delayed access, failed save, failed backup, failed restore, failed deletion, subscription issue, entitlement issue, user dissatisfaction, or other harm caused by or related to user action, user error, user negligence, weak or reused passwords, compromised Apple ID, device loss, device theft, jailbreak, sideloading, malware, unsafe device settings, unsafe iCloud settings, unsafe sharing, screenshots, screen recordings, manual exports, third-party apps, external websites, external storage, accidental deletion, incorrect permissions, incorrect Apple Health settings, incorrect notification settings, incorrect backup settings, incorrect use of the App, or failure to keep the device and Apple account secure.
+
+8. PERMISSIONS AND FEATURE LIMITATIONS
+
+Luid may request or rely on Apple system permissions or system features for selected photo access, local notifications, Apple Health, Apple Watch connectivity, StoreKit purchases, App Store subscription restoration, diagnostics, and device backup behavior.
+
+Selected photo access may be used to choose a profile image. Luid does not need to scan your full photo library for this feature.
+
+Local notifications may be used for hydration reminders and custom reminders.
+
+Apple Health access may be used to save new water entries to Apple Health when you enable Apple Health support and grant permission.
+
+Apple Watch connectivity, where available, may be used to exchange limited hydration-related information between your paired iPhone and Apple Watch.
+
+If you deny, restrict, revoke, or misconfigure permissions, some App features may be limited, unavailable, inaccurate, unable to save output, unable to sync, unable to restore purchases, unable to send reminders, or unable to write to Apple Health.
+
+The Developer is not responsible for feature limitations, lost functionality, missed reminders, failed Apple Health writes, failed Apple Health deletes, failed Apple Watch sync, failed subscription restoration, inaccurate output, unavailable settings, or user dissatisfaction caused by denied permissions, operating system settings, Apple service behavior, device hardware limitations, or Apple permission behavior.
+
+9. SUBSCRIPTIONS, IN-APP PURCHASES, AND APPLE BILLING
+
+Luid may offer paid features, in-app purchases, or auto-renewable subscriptions such as Luid Pro or other paid access options displayed in the App or on the App Store.
+
+All purchases, subscriptions, renewals, cancellations, billing, taxes, price displays, payment methods, receipts, refund requests, purchase history, subscription management, and financial transaction handling are handled by Apple through the App Store and StoreKit. The Developer does not process your payment card details and does not control Apple’s billing, renewal, cancellation, refund, tax, or payment systems.
+
+Apple-controlled purchase and subscription processes may include trial eligibility, offer eligibility, promotional offers, regional availability, Family Sharing behavior, chargebacks, payment authorization, payment failure, price changes, tax handling, currency conversion, refund eligibility, receipt availability, transaction history, account-based restrictions, regional storefront restrictions, and App Store purchase options.
+
+The Developer does not determine or control whether you are eligible for a trial, offer, promotion, refund, regional price, Family Sharing benefit, subscription renewal, App Store purchase option, or Apple-controlled subscription outcome.
+
+Auto-renewable subscriptions renew automatically at the end of each subscription period unless cancelled through Apple before renewal according to Apple’s rules. You are responsible for managing and cancelling subscriptions through your Apple ID / App Store subscription settings.
+
+Deleting the App, deleting local App data, deleting a local Luid profile, disabling App permissions, turning off Apple Health sync, or stopping use of the App does not automatically cancel an Apple subscription. Subscription cancellation must be handled through Apple.
+
+Premium access may depend on Apple StoreKit entitlement status, App Store availability, your Apple ID, device state, region, subscription status, Apple servers, receipt availability, transaction availability, local entitlement information, payment status, and operating system behavior. The App may store local or temporary entitlement information to help unlock paid features. This local entitlement state may become delayed, unavailable, outdated, or temporarily incorrect because of Apple StoreKit behavior, App Store outages, device state, network conditions, Apple ID changes, payment status, receipt availability, region changes, or operating system behavior.
+
+To the maximum extent permitted by applicable law, the Developer is not responsible or liable for charges, renewals, failed cancellations, refund denials, tax amounts, currency conversion, price changes, Apple account issues, billing errors, payment method problems, subscription restoration issues, purchase availability issues, App Store outages, StoreKit errors, delayed premium access, failed entitlement refresh, subscription state mismatch, trial or offer ineligibility, chargeback-related restrictions, Family Sharing limitations, regional purchase limitations, payment authorization issues, or any economic, financial, purchase, subscription, or entitlement process controlled by Apple.
+
+The Developer does not guarantee uninterrupted premium access if Apple services, your Apple account, payment status, device settings, receipt availability, StoreKit behavior, or App Store systems fail or change.
+
+10. LUID PRO FEATURES
+
+Some advanced features may require a paid Luid Pro subscription or other paid access option.
+
+Luid Pro may include advanced local insights, interactive charts, trend summaries, timing analysis, drink balance insights, reminder intelligence, calendar heatmaps, personal records, recap views, custom drink features, additional reminder flexibility, and other paid features displayed in the App or on the App Store.
+
+The exact paid features may change over time. A purchase or subscription provides access only to the paid features and service level made available at the relevant time, subject to Apple’s rules, App Store availability, these Terms, technical limitations, and applicable law.
+
+The Developer does not promise that any specific paid feature, design, chart, insight, workflow, summary, calculation, product name, subscription tier, price, offer, promotion, interface, or platform support will remain available forever.
+
+Features may be changed, improved, limited, renamed, redesigned, removed, replaced, suspended, or discontinued at any time, with or without notice, to the maximum extent permitted by applicable law.
+
+Nothing in this section limits non-waivable consumer rights or mandatory refund rights that Apple is legally required to provide.
+
+11. NO GUARANTEE OF FUTURE FEATURES OR CONTINUED ACCESS
+
+The Developer does not promise that any specific feature, design, calculation, chart, reminder mode, Apple Health behavior, Apple Watch feature, subscription tier, price, offer, promotion, interface, workflow, local insight, App Store listing, or platform support will remain available forever.
+
+Features may be changed, improved, limited, renamed, redesigned, removed, replaced, suspended, or discontinued at any time, with or without notice, to the maximum extent permitted by applicable law.
+
+Your purchase or subscription does not create a right to future features, future updates, future compatibility, future designs, future Apple platform support, future App Store availability, or continued development beyond what mandatory law requires.
+
+12. RIGHT TO STOP DEVELOPMENT, SUPPORT, OR APP AVAILABILITY
+
+To the maximum extent permitted by applicable law, the Developer may at any time, for any reason or no reason, with or without prior notice:
+
+* stop developing the App;
+* stop updating the App;
+* stop maintaining the App;
+* stop providing support;
+* remove the App from the App Store;
+* limit availability in any country or region;
+* remove, modify, or discontinue any feature, subscription tier, design, chart, reminder system, insight, or functionality;
+* stop compatibility work for current or future iOS, iPadOS, watchOS, device, hardware, or Apple platform changes;
+* stop responding to feature requests, roadmap requests, compatibility requests, or support requests.
+
+To the maximum extent permitted by applicable law, users will not be entitled to demand compensation, damages, refunds, credits, alternative services, continued support, continued development, future updates, feature restoration, compatibility updates, data recovery, data export assistance, special technical support, source code, project files, roadmap performance, prior notice, or any other claim from the Developer because the Developer stops development, stops support, changes the App, removes features, limits availability, or removes the App from the App Store.
+
+Nothing in this section limits non-waivable consumer rights, mandatory data protection rights, or any refund rights that Apple is legally required to provide through the App Store. Apple-controlled refunds, subscriptions, billing, and purchase history remain subject to Apple’s rules and processes.
+
+13. APP UPDATES, MIGRATIONS, AND OPERATING SYSTEM CHANGES
+
+The App may need updates to remain compatible with future Apple hardware, iOS, iPadOS, watchOS, App Store rules, StoreKit behavior, HealthKit behavior, notification behavior, device permissions, or platform changes. The Developer does not guarantee that the App will remain compatible with future devices, operating systems, APIs, App Store requirements, or Apple services.
+
+The Developer may release updates at the Developer’s sole discretion. The Developer has no obligation to provide updates, compatibility patches, new features, performance improvements, localization updates, or support responses, except where required by mandatory applicable law.
+
+App updates, local data migrations, operating system updates, interrupted installations, interrupted migrations, insufficient device storage, insufficient iCloud storage, unsupported devices, Apple policy changes, App Store requirements, permission changes, HealthKit changes, StoreKit changes, notification changes, Apple framework changes, Apple Watch pairing changes, or device transfers may affect App behavior, data availability, feature availability, performance, compatibility, subscription status display, Apple Health sync, Apple Watch sync, or stored local information.
+
+The Developer may design updates and migrations to preserve App data where reasonably possible, but the Developer does not guarantee that every update, migration, restore, device transfer, operating system update, or compatibility change will be uninterrupted, error-free, reversible, or able to preserve every item of local data.
+
+To the maximum extent permitted by applicable law, the Developer is not responsible for issues caused by update failures, interrupted updates, migration failures, unsupported devices, insufficient storage, operating system changes, Apple policy changes, App Store changes, permission changes, HealthKit behavior changes, StoreKit behavior changes, compatibility limitations, device transfer issues, restore issues, or user failure to keep the device, operating system, Apple ID, App Store account, Apple Health settings, and backup settings in a usable state.
+
+14. USER CONTENT AND USER-ENTERED INFORMATION
+
+Luid may allow you to create, enter, store, edit, or delete local information such as profile information, drink entries, drink amounts, drink types, custom drink names, custom drink settings, reminder titles, reminder notes, reminder schedules, profile images, selected goals, settings, and other user-entered information.
+
+You retain any rights you have in your own lawful user-entered information. By using the App, you give the App permission to process, display, store locally, edit, delete, analyze locally, summarize locally, and use that information on your device as needed for the features you choose to use.
+
+You are solely responsible for your user-entered information. You must not use the App to create, store, enter, display, or share illegal, harmful, infringing, abusive, privacy-violating, confidential, regulated, unauthorized, or unsafe content.
+
+You should not enter sensitive personal information into custom drink names, reminder titles, reminder notes, or other fields that may be visible on screen, in notifications, on your lock screen, on a paired device, in screenshots, or to people near your device.
+
+The Developer is not responsible for user-created content, user-entered values, inaccurate entries, incorrect profile details, custom drink names, reminder text, user exports if export features are available, screenshots, notification previews, copyright issues caused by user content, or any harm caused by content you add to, save from, or share through the App.
+
+15. LOCAL DATA DELETION AND NO DATA RECOVERY OBLIGATION
+
+Luid may offer local data deletion or reset options, such as resetting today’s entries or deleting the local App profile and on-device App data. These are local device actions. They do not cancel Apple subscriptions, delete Apple purchase history, remove Apple billing records, delete Apple ID information, delete Apple invoices, remove Apple App Store transaction records, or erase Apple-managed backups that may already exist.
+
+You are responsible for backing up any data you want to keep before deleting the App, deleting local App data, deleting a local profile, changing devices, restoring a device, resetting iOS, disabling iCloud, changing Apple Health permissions, changing Apple Watch pairing, or using destructive actions.
+
+If you delete, reset, or remove Luid data while your device is offline, Apple services are unavailable, Apple Health is unavailable, iCloud Backup is delayed, your Apple ID is unavailable, your device storage is limited, or Apple-controlled systems are not operating normally, deletion from Apple-managed systems may not occur immediately or may remain subject to Apple’s own processes.
+
+The Developer cannot guarantee instant, complete, synchronized, or irreversible deletion from Apple-controlled systems, iCloud Backup, device backups, Apple Health, Apple ID records, App Store purchase history, or other Apple-managed locations.
+
+You may need to manage certain Apple-controlled data manually through iOS settings, Apple ID settings, iCloud settings, Apple Health, Apple Watch settings, device backup settings, App Store subscription settings, or other Apple-provided controls.
+
+To the maximum extent permitted by applicable law, the Developer has no obligation to recover, restore, reconstruct, export, transfer, preserve, or compensate you for lost local data, deleted content, corrupted content, missed reminders, failed saves, lost entries, lost profile data, lost settings, lost custom drinks, subscription display errors, delayed deletion, incomplete deletion, or any other local App data issue.
+
+16. HEALTH AND WELLNESS DISCLAIMER
+
+Luid is a wellness tracking app. It is not medical software and does not provide medical advice.
+
+The App does not diagnose, treat, prevent, monitor, or cure any disease or medical condition. It does not provide emergency guidance, clinical decisions, medical dosage advice, professional nutrition advice, personalized medical treatment plans, fluid restriction instructions, electrolyte guidance, or safety-critical health recommendations.
+
+Hydration needs vary from person to person. Excessive fluid intake can be risky. Drinking too much water or fluid may cause serious health problems in some circumstances. If you have a medical condition, are pregnant, have kidney, heart, endocrine, electrolyte, blood pressure, fluid-balance, or other health concerns, take medication, follow fluid restrictions, are under medical supervision, or have any health-related questions, consult a qualified healthcare professional.
+
+You must not rely on Luid as the sole basis for medical decisions, health decisions, diet decisions, hydration decisions, medication decisions, exercise decisions, safety decisions, or emergency decisions.
+
+The Developer is not responsible for health decisions, symptoms, discomfort, injury, illness, medical complications, excessive fluid intake, insufficient fluid intake, caffeine-related issues, dietary issues, medication interactions, missed warnings, delayed medical care, or any harm caused by relying on App entries, reminders, charts, summaries, estimates, goals, local insights, Apple Health entries, Apple Watch information, or notifications.
+
+17. HYDRATION GOALS, ESTIMATES, AND LOCAL INSIGHTS
+
+Luid may provide daily goals, wellness estimates, charts, trend summaries, drink balance insights, timing insights, reminder intelligence, calendar views, personal records, recap views, and other local insights based on information available inside the App.
+
+These outputs are informational and wellness-oriented only. They may be based on user-entered information, local profile settings, selected goal, drink history, drink type, daily context, activity level, time settings, day reset time, and local calculation logic.
+
+The App’s estimates and insights may be inaccurate, incomplete, delayed, unsuitable, or not appropriate for your personal situation. They may be affected by missing entries, duplicate entries, incorrect amounts, incorrect drink type selection, wrong dates or times, incorrect profile information, incorrect unit settings, custom day reset time, edited or deleted entries, incomplete history, Apple Health sync limitations, Apple Watch sync limitations, local file issues, app updates, or operating system behavior.
+
+Luid does not guarantee that any goal, estimate, chart, reminder suggestion, timing suggestion, drink balance summary, trend summary, personal record, recap, or local insight will be accurate, complete, safe, suitable, current, or beneficial for any particular user.
+
+You are responsible for reviewing all outputs and using your own judgment. Important hydration, nutrition, fitness, or health-related decisions should be discussed with a qualified healthcare professional.
+
+To the maximum extent permitted by applicable law, the Developer is not responsible for any loss, discomfort, medical issue, missed routine, incorrect habit decision, user dissatisfaction, inaccurate health record, or other consequence caused by relying on App goals, estimates, charts, reminders, summaries, insights, or local analysis.
+
+18. APPLE HEALTH DISCLAIMER
+
+Luid may offer optional Apple Health support. When Apple Health support is enabled and permission is granted, Luid may save new drink entries to Apple Health as dietary water.
+
+Apple Health and HealthKit are Apple-controlled systems. Apple Health permission is controlled by you through iOS and the Health app. You may grant, deny, or revoke permission using Apple’s system settings.
+
+Luid may attempt to save, replace, or delete Apple Health water samples associated with Luid entries where technically possible and where permission allows. However, the Developer cannot guarantee that Apple Health data will always be saved, updated, deleted, synchronized, displayed, matched, restored, or removed correctly.
+
+Apple Health behavior may depend on iOS, Health app settings, device availability, Apple ID status, iCloud Health settings, permission status, HealthKit availability, Apple system behavior, user edits, entries from other apps, sample matching, metadata availability, and other factors outside the Developer’s control.
+
+Turning off Apple Health support in Luid stops new Health writes from Luid where technically available, but it may not remove existing Apple Health data. Deleting or editing Luid entries may not always delete or update matching Apple Health samples.
+
+You are responsible for reviewing and managing Apple Health data inside the Apple Health app. Luid should not be used as the sole source of truth for health, medical, safety, or emergency information.
+
+To the maximum extent permitted by applicable law, the Developer is not responsible for failed Apple Health writes, failed Apple Health deletes, duplicate Apple Health samples, missing Apple Health samples, inaccurate Health app display, HealthKit permission issues, Apple Health sync issues, iCloud Health behavior, Apple Health backup behavior, or any consequence caused by Apple Health or HealthKit behavior.
+
+19. APPLE WATCH CONNECTIVITY DISCLAIMER
+
+If Luid is used with Apple Watch support, the App may exchange limited hydration-related information between your paired iPhone and Apple Watch through Apple WatchConnectivity.
+
+Apple Watch connectivity depends on Apple hardware, watchOS, iOS, pairing state, Bluetooth, Wi-Fi, device reachability, Apple system behavior, battery state, user settings, and device availability.
+
+The Developer does not guarantee uninterrupted sync, instant delivery, complete delivery, or perfect state matching between iPhone and Apple Watch.
+
+Apple Watch data may be delayed, incomplete, unavailable, duplicated, or temporarily inconsistent with iPhone data. Entries added from Apple Watch may not appear instantly or may fail if the connection, device state, app state, or Apple system behavior prevents delivery.
+
+To the maximum extent permitted by applicable law, the Developer is not responsible for Apple Watch sync delays, failed Watch entries, missing Watch data, duplicate entries, mismatched progress, unavailable Watch features, or user dissatisfaction caused by Apple Watch, watchOS, iOS, pairing, connectivity, or Apple system behavior.
+
+20. LOCAL NOTIFICATIONS AND REMINDERS
+
+Luid may schedule local notifications for hydration reminders and custom reminders. Local notifications depend on iOS, device settings, Focus modes, notification permissions, notification summary behavior, time settings, battery state, device state, Apple Watch settings, paired devices, and operating system behavior.
+
+The Developer does not guarantee that any reminder or notification will be delivered, displayed, heard, timely, accurate, uninterrupted, or acted on.
+
+Reminder titles, reminder notes, and notification content may appear on your lock screen, notification center, Apple Watch, or paired devices depending on your iOS and device settings. You should avoid entering sensitive personal information in reminder titles or notes.
+
+The Developer is not responsible for missed reminders, late reminders, duplicate reminders, unavailable reminders, notification privacy exposure, user distraction, losses, inconvenience, habit disruption, health decisions, or user dissatisfaction caused by notification failure, permission settings, Focus modes, Apple notification behavior, Apple Watch behavior, or user settings.
+
+21. SELECTED PHOTO AND PROFILE IMAGE DISCLAIMER
+
+Luid may allow you to select a profile image using Apple’s selected photo picker.
+
+The App does not guarantee that every selected image will import, crop, save, display, preserve quality, preserve orientation, or remain available after app updates, device changes, storage limitations, local data deletion, backup behavior, or operating system changes.
+
+You are responsible for choosing images you have the right to use and for avoiding sensitive, private, illegal, infringing, or inappropriate images.
+
+The Developer is not responsible for image loss, image quality changes, image cropping results, image display issues, copyright issues caused by user-selected images, privacy issues caused by profile images, screenshots, screen sharing, device sharing, or user choices.
+
+22. BATTERY, HEAT, STORAGE, AND DEVICE PERFORMANCE
+
+Luid features such as charts, local calculations, Apple Health writes, Apple Watch sync, notifications, local data storage, App startup, and interface rendering may consume battery, storage, CPU, GPU, memory, or device resources.
+
+Performance, battery consumption, heat, storage usage, save behavior, and feature availability may vary by device model, battery health, storage availability, iOS version, watchOS version, permissions, thermal state, background activity, Low Power Mode, device age, and user settings.
+
+You are responsible for monitoring your device battery, temperature, storage, permissions, backups, and operating conditions before and during use. You should stop using the App or resource-intensive features if your device becomes too hot, unstable, low on battery, low on storage, or unsuitable for continued use.
+
+To the maximum extent permitted by applicable law, the Developer is not responsible for battery drain, overheating, thermal throttling, reduced performance, failed saves, storage exhaustion, app termination, device shutdown, interrupted workflows, data loss, hardware wear, user inconvenience, or other issues caused by device limitations, resource usage, environmental conditions, Apple platform behavior, or user settings.
+
+23. NO THIRD-PARTY ADVERTISING, ANALYTICS, OR TRACKING SDKS
+
+Luid is designed without third-party advertising SDKs, third-party analytics SDKs, third-party crash analytics SDKs, or cross-app tracking SDKs.
+
+Apple may provide diagnostics, crash information, purchase information, subscription status, App Store-related information, or device analytics information to the Developer only through Apple-controlled systems and only according to Apple’s own settings, rules, and user choices.
+
+The Developer does not control Apple diagnostics systems, App Store reporting, StoreKit reporting, Apple privacy settings, device analytics settings, or any information Apple may process through Apple-controlled platform services.
+
+To the maximum extent permitted by applicable law, the Developer is not responsible for Apple-controlled diagnostics, Apple-controlled App Store reporting, Apple-controlled subscription reporting, device analytics settings, or Apple platform behavior.
+
+24. ACCEPTABLE USE
+
+You agree not to:
+
+* copy, sell, rent, lease, sublicense, distribute, publish, host, or commercially exploit the App except as expressly permitted by Apple and these Terms;
+* reverse engineer, decompile, disassemble, modify, bypass, tamper with, or attempt to extract source code except where such restriction is prohibited by mandatory law;
+* bypass subscription gates, entitlement checks, StoreKit behavior, access controls, or App limitations;
+* use the App for illegal, harmful, abusive, fraudulent, infringing, privacy-violating, or unauthorized purposes;
+* use the App to create or store content you do not have the right to use;
+* enter illegal, infringing, abusive, confidential, regulated, or unsafe information into custom drink names, reminder notes, profile fields, or other App fields;
+* use the App in a way that damages, overloads, interferes with, or disrupts the App, Apple services, device operation, or other users;
+* misrepresent App outputs as certified, official, guaranteed, medical, clinical, safety-critical, or professionally validated measurements;
+* use the App as the sole basis for high-risk activities where failure or inaccuracy could cause death, personal injury, property damage, medical harm, legal violation, or financial loss;
+* remove, hide, or alter copyright, trademark, attribution, credits, disclaimers, or legal notices displayed in the App.
+
+25. INTELLECTUAL PROPERTY AND CREDITS
+
+The App, including its name, design, code, architecture, workflows, calculations, user interface, visual style, original content, original icons, original generated materials, original feature structure, and original local insight logic, is protected by intellectual property laws.
+
+Some App functionality may rely on Apple system frameworks, Apple platform services, or other legally permitted components. Required credits or acknowledgements, if any, may appear inside the App’s Credits section, legal notices, documentation, metadata, or other appropriate places.
+
+Credits, acknowledgements, or source references do not mean that any third party endorses, sponsors, approves, certifies, validates, or is responsible for Luid.
+
+You may not remove, obscure, misrepresent, or alter App credits, attributions, legal notices, or ownership notices.
+
+26. THIRD-PARTY WEBSITES, EXTERNAL LINKS, AND EXTERNAL CONTENT
+
+The App may display or open external links related to the Privacy Policy, Terms of Use, App Store subscription management, Apple support, Apple Health, legal information, or account management. External websites and services are not controlled by the Developer.
+
+The Developer is not responsible for third-party websites, third-party services, external content, external privacy practices, external terms, external downloads, external files, or any harm caused by leaving the App or interacting with external resources.
+
+27. EXPORT CONTROL, SANCTIONS, AND LEGAL COMPLIANCE
+
+You are responsible for using the App in compliance with all laws and regulations that apply to you, including export control, sanctions, intellectual property, privacy, consumer protection, health-related, and local laws where relevant.
+
+You may not use or export the App in violation of applicable laws, Apple terms, sanctions, or regulatory restrictions.
+
+28. EVENTS OUTSIDE THE DEVELOPER’S CONTROL
+
+To the maximum extent permitted by applicable law, the Developer is not responsible for failures, interruptions, delays, data issues, unavailable features, unavailable purchases, unavailable subscriptions, failed backups, failed restores, failed saves, inaccurate outputs, service issues, compatibility problems, or App unavailability caused by events outside the Developer’s reasonable control.
+
+These events may include natural disasters, severe weather, internet outages, power outages, infrastructure failures, governmental actions, legal restrictions, sanctions, platform restrictions, Apple service issues, App Store issues, StoreKit issues, HealthKit issues, Apple Health issues, iCloud or backup issues, Apple ID issues, operating system changes, device hardware failures, security incidents, cyberattacks, labor disruptions, war, civil unrest, pandemics, emergency conditions, or other force majeure events.
+
+Nothing in this section limits rights that cannot legally be limited under mandatory applicable law.
+
+29. DISCLAIMER OF WARRANTIES
+
+To the maximum extent permitted by applicable law, Luid is provided “as is” and “as available,” with all faults and without warranties of any kind.
+
+The Developer disclaims all express, implied, and statutory warranties, including warranties of merchantability, fitness for a particular purpose, accuracy, reliability, availability, uninterrupted operation, compatibility, security, non-infringement, data preservation, subscription availability, App Store availability, Apple Health availability, Apple Watch sync availability, notification delivery, and error-free performance.
+
+The Developer does not warrant that the App will meet your expectations, produce accurate results, remain available, remain compatible with future devices or operating systems, preserve your data, deliver reminders, save Apple Health entries, maintain subscriptions, restore purchases, synchronize with Apple Watch, or operate without interruption, bugs, data loss, permission issues, StoreKit issues, HealthKit issues, Apple service issues, calculation inaccuracies, migration issues, notification issues, or Apple-controlled reporting issues.
+
+Nothing in these Terms excludes warranties or rights that cannot legally be excluded under mandatory applicable law.
+
+30. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the Developer will not be liable for any indirect, incidental, special, consequential, exemplary, punitive, economic, business, professional, academic, financial, safety-related, health-related, reputational, data-related, subscription-related, device-related, Apple-service-related, or loss-of-opportunity damages arising out of or relating to the App, even if the Developer has been advised of the possibility of such damages.
+
+This includes, without limitation, damages or losses related to data loss, data leaks, Apple service incidents, user error, device loss, device compromise, iCloud behavior, App Store behavior, StoreKit behavior, Apple Health behavior, HealthKit behavior, Apple Watch behavior, notification behavior, selected photo behavior, permission settings, local backups, failed reminders, failed saves, inaccurate hydration tracking, inaccurate drink entries, inaccurate goals, inaccurate charts, inaccurate local insights, excessive fluid intake, insufficient fluid intake, health decisions, missed routines, lost subscription access, subscription billing, refunds, price changes, trial or offer eligibility, Family Sharing behavior, chargebacks, app removal, discontinued features, discontinued development, lack of updates, lack of support, app migration issues, operating system changes, insufficient storage, business loss, professional loss, academic loss, financial loss, safety issues, device issues, force majeure events, or reliance on App outputs.
+
+To the maximum extent permitted by applicable law, the Developer’s total liability for any claim relating to the App or these Terms will not exceed the amount you paid directly for the App or the relevant subscription period through the App Store during the twelve (12) months before the event giving rise to the claim, or the minimum amount required by mandatory applicable law, whichever is greater.
+
+Nothing in these Terms limits liability that cannot legally be limited, such as liability for intentional misconduct where such limitation is prohibited by law, or mandatory consumer rights that cannot be waived.
+
+31. INDEMNITY
+
+To the maximum extent permitted by applicable law, you agree to defend, indemnify, and hold harmless the Developer from and against claims, losses, liabilities, damages, costs, and expenses arising from or related to:
+
+* your use or misuse of the App;
+* your user-entered information;
+* your violation of these Terms;
+* your violation of applicable law;
+* your violation of another person’s rights;
+* your unsafe device settings, user error, or unauthorized sharing;
+* your use of App results in medical, professional, safety-critical, high-risk, or unauthorized contexts;
+* your reliance on hydration goals, charts, reminders, estimates, Apple Health entries, Apple Watch data, or local insights without independent judgment or professional advice where appropriate;
+* your use of custom drink names, reminder text, profile images, screenshots, exports, or shared content in a way that violates rights or laws.
+
+This section applies only to the extent permitted by applicable law and does not limit non-waivable consumer rights.
+
+32. TERMINATION
+
+These Terms remain in effect until terminated by you or the Developer.
+
+You may terminate your use of the App by deleting the App and stopping use. Deleting the App does not automatically cancel Apple subscriptions. You must cancel subscriptions through Apple.
+
+The Developer may terminate or suspend your license to use the App if you violate these Terms, misuse the App, bypass subscriptions, infringe intellectual property, use the App illegally, or otherwise create risk for the Developer, Apple, other users, or third parties.
+
+Upon termination, you must stop using the App and delete any unauthorized copies. Sections that by their nature should survive termination will survive, including intellectual property, disclaimers, limitation of liability, indemnity, Apple service responsibility, local data deletion limits, user content responsibility, health and wellness disclaimers, Apple Health disclaimers, subscription terms, and dispute-related provisions.
+
+33. CHANGES TO THESE TERMS
+
+The Developer may update these Terms from time to time. Updates may be made because of App changes, new features, removed features, App Store requirements, Apple platform changes, legal changes, business changes, privacy considerations, security considerations, or operational needs.
+
+Your continued use of the App after updated Terms become available means you accept the updated Terms, to the extent permitted by applicable law. If you do not agree to updated Terms, stop using the App and cancel any Apple subscriptions through Apple if you no longer want them.
+
+34. APPLE AS THIRD-PARTY BENEFICIARY
+
+Apple and Apple’s subsidiaries are third-party beneficiaries of these Terms to the extent required by Apple’s App Store rules and applicable Apple terms. Upon your acceptance of these Terms, Apple may have the right to enforce certain terms against you as a third-party beneficiary where applicable.
+
+The Developer, not Apple, is responsible for the App and its content, except for Apple-controlled systems and processes described in these Terms and Apple’s own terms.
+
+35. GOVERNING LAW AND MANDATORY RIGHTS
+
+Except where mandatory local consumer laws require otherwise, these Terms are governed by the laws applicable to the Developer’s place of business, without regard to conflict of law rules.
+
+If you are a consumer in a country or region where mandatory consumer protection laws give you additional rights, those mandatory rights are not limited by these Terms.
+
+If any dispute, claim, or issue is handled through Apple-controlled systems, including App Store purchases, refunds, subscriptions, billing, StoreKit, Apple ID, Apple Health, iCloud, or Apple platform services, those processes remain subject to Apple’s applicable rules and procedures.
+
+36. SEVERABILITY
+
+If any part of these Terms is found invalid, unlawful, or unenforceable, that part will be interpreted or limited to the maximum extent necessary to make it valid and enforceable. If it cannot be made valid, it will be severed, and the remaining Terms will continue in effect.
+
+37. NO WAIVER
+
+If the Developer does not enforce any part of these Terms immediately, that does not mean the Developer waives the right to enforce it later.
+
+38. ENTIRE AGREEMENT
+
+These Terms, together with the Luid Privacy Policy and applicable Apple terms, form the entire agreement between you and the Developer regarding your use of Luid.
+
+39. CONTACT
+
+For questions about these Terms, contact:
+
+Ali Yiğit
+Email: [aliyigxt@icloud.com]
